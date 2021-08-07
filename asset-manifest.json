@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Contact_Search_App-React/static/css/main.5bcd6004.chunk.css",
+    "main.js": "/Contact_Search_App-React/static/js/main.7439ce99.chunk.js",
+    "main.js.map": "/Contact_Search_App-React/static/js/main.7439ce99.chunk.js.map",
+    "runtime-main.js": "/Contact_Search_App-React/static/js/runtime-main.292d3ba5.js",
+    "runtime-main.js.map": "/Contact_Search_App-React/static/js/runtime-main.292d3ba5.js.map",
+    "static/js/2.fa231fa1.chunk.js": "/Contact_Search_App-React/static/js/2.fa231fa1.chunk.js",
+    "static/js/2.fa231fa1.chunk.js.map": "/Contact_Search_App-React/static/js/2.fa231fa1.chunk.js.map",
+    "static/js/3.c012b9f6.chunk.js": "/Contact_Search_App-React/static/js/3.c012b9f6.chunk.js",
+    "static/js/3.c012b9f6.chunk.js.map": "/Contact_Search_App-React/static/js/3.c012b9f6.chunk.js.map",
+    "index.html": "/Contact_Search_App-React/index.html",
+    "static/css/main.5bcd6004.chunk.css.map": "/Contact_Search_App-React/static/css/main.5bcd6004.chunk.css.map",
+    "static/js/2.fa231fa1.chunk.js.LICENSE.txt": "/Contact_Search_App-React/static/js/2.fa231fa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.292d3ba5.js",
+    "static/js/2.fa231fa1.chunk.js",
+    "static/css/main.5bcd6004.chunk.css",
+    "static/js/main.7439ce99.chunk.js"
+  ]
+}
